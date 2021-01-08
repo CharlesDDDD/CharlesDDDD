@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning distributed system and Ukulele
+- 📫 How to reach me: 10185101155@stu.ecnu.edu.cn
+- ⚡ Fun fact: In fact I dont use github anymore if u dont follow me /(ㄒoㄒ)/~~
+
