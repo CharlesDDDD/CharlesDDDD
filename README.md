@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesDDDD&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesDDDD&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 Distributed system and Back-end technology are my current passion
 - 📫 How to reach me: 10185101155@stu.ecnu.edu.cn
 - ⚡ I dont use github anymore if u dont follow me /(ㄒoㄒ)/~~
