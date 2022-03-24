@@ -1,4 +1,11 @@
 ### Hi there 👋 
+
+- 🎓 B.Eng in Data Science@ECNU | Incoming MS ECE@Georgia Tech
+- 📝 Research Interest: Automatic Speech Recognition (ASR) and Processing | Natural Language Processing
+- 👯 I am looking for a Research Assistant Internship position and any further collaboration opportunities!
+- 📫 How to reach me: charlesdeng0609@gmail.com
+- ❤️ I am also keen on photography, directing videos and any sports games! Feel free to contact with me!
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CharlesDDDD&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **CharlesDDDD/CharlesDDDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesDDDD&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-- 🔭 Distributed system and Back-end technology are my current passion
-- 📫 How to reach me: 10185101155@stu.ecnu.edu.cn
-- ⚡ I dont use github anymore if u dont follow me /(ㄒoㄒ)/~~
 
