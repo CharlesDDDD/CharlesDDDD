@@ -1,9 +1,9 @@
 ### Hi there 👋 
 
 - 🎓 Incoming MS @ Gerogia Tech | Prev: B.Eng@ECNU, Research Intern@Netease Music, SWE Intern@SAP/OPPO 
-- 📜 Research: Recently focus on Multimodal and NLP, but also open to any interesting topic related🙈
+- 📜 Research: Recently focus on Multimodal and NLP, but also open to any interesting topic related 🙈
 - 📫 How to reach me: charlesdeng0609@gmail.com 
-- ❤️ Miscellaneous: photographer (Esp. Arch.) | director | chess player (once quasi-professional at but now an amateur👻)
+- ❤️ Miscellaneous: photographer 📸 (Esp. Arch.) | director 📹 | chess player ♟(once quasi-professional at but now an amateur 👻)
 - 💥 News: Now I am doing research intern in the field of multimodal, if any further collboration feel free to contact me! ❤️‍🔥❤️‍🔥❤️‍🔥
 
 
