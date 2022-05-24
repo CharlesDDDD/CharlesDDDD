@@ -1,10 +1,10 @@
 ### Hi there 👋 
 
-- 🎓 Incoming MS @ Gerogia Tech | Prev: B.Eng@ECNU, Research Intern@Netease Music, SWE Intern@SAP/OPPO 
+- 🎓 Incoming MS @Gerogia Tech | Prev: B.Eng @ECNU, Research Intern @Netease Music, SWE Intern @SAP/OPPO 
 - 📜 Research: Recently focus on Multimodal and NLP, but also open to any interesting topic related 🙈
 - 📫 How to reach me: charlesdeng0609@gmail.com 
 - ❤️ Miscellaneous: photographer 📸 (Esp. Arch.) | director 📹 | chess player ♟(once quasi-professional at but now an amateur 👻)
-- 💥 News: Now I am doing research intern in the field of multimodal, if any further collboration feel free to contact me! ❤️‍🔥❤️‍🔥❤️‍🔥
+- 💥 News: 
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CharlesDDDD&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
