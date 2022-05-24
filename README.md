@@ -1,10 +1,12 @@
 ### Hi there 👋 
 
-- 🎓 B.Eng in Data Science@ECNU | Incoming MS ECE@Georgia Tech
-- 📝 Research Interest: Automatic Speech Recognition (ASR) and Processing | Natural Language Processing
-- 👯 I am looking for a Research Assistant Internship position and any further collaboration opportunities!
-- 📫 How to reach me: charlesdeng0609@gmail.com
-- ❤️ Photographer | Director 
+- 🎓 Incoming MS @ Gerogia Tech | Prev: B.Eng@ECNU, Research Intern@Netease Music, SWE Intern@SAP/OPPO 
+- 📜 Research: Recently focus on Multimodal and NLP, but also open to any interesting topic related🙈
+- 📫 How to reach me: charlesdeng0609@gmail.com 
+- ❤️ Miscellaneous: photographer (Esp. Arch.) | director | chess player (once quasi-professional at but now an amateur👻)
+- 💥 News: Now I am doing research intern in the field of multimodal, if any further collboration feel free to contact me! ❤️‍🔥❤️‍🔥❤️‍🔥
+
+"The world is a dangerous place to live not because of the people who are evil, but because of the people who don't do anything about it."
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CharlesDDDD&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <!--
