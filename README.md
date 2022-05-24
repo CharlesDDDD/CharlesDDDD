@@ -6,7 +6,6 @@
 - ❤️ Miscellaneous: photographer (Esp. Arch.) | director | chess player (once quasi-professional at but now an amateur👻)
 - 💥 News: Now I am doing research intern in the field of multimodal, if any further collboration feel free to contact me! ❤️‍🔥❤️‍🔥❤️‍🔥
 
-"The world is a dangerous place to live not because of the people who are evil, but because of the people who don't do anything about it."
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CharlesDDDD&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <!--
