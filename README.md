@@ -4,7 +4,7 @@
 - 📜 Research: Recently focus on Multimodal and NLP, but also open to any interesting topic related 🙈
 - 📫 How to reach me: charlesdeng0609@gmail.com 
 - ❤️ Miscellaneous: photographer 📸 (Esp. Arch.) | director 📹 | chess player ♟(once quasi-professional at but now an amateur 👻)
-- 💥 News: 
+- 💥 News: Golden State Warriors 3-1 lead the western conference final
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CharlesDDDD&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
