@@ -1,10 +1,10 @@
 ### Hi there 👋 
 
 - 🎓 MS @Gerogia Tech | Prev. B.Eng @ECNU, Research Intern @Netease Music, SWE Intern @SAP/OPPO 
-- 📜 Research: Recently focus on Multimodal and NLP, but also open to any interesting topic related.
+- 📜 Research: Recently focus on Multilingual NLP, social NLP and generative AI.
 - 📫 How to reach me: cdeng73@gatech.edu
-- ❤️ Miscellaneous: photographer 📸 (Esp. Arch.) | director 📹 | chess player ♟(once quasi-professional at but now an aficionado)
-- 💥 News: Golden State Warriors comes back to NBA Finals after the absence of 1089 days.
+- ❤️ Miscellaneous: photographer 📸 | director 📹 | chess player ♟(once quasi-professional at but now an aficionado)
+- 💥 News: "70 years of AI summers and winters have culminated in this moment, in which we will see the greatest shift of how people interact with technology since electricity."
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CharlesDDDD&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
