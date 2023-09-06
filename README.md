@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 - 🎓 MS @Gerogia Tech | Prev. B.Eng @ECNU, Research Intern @Netease Music, SWE Intern @SAP/OPPO 
-- 📜 Research: Recently focus on Multilingual NLP, social NLP and generative AI.
+- 📜 Research: LLMs-centered :)
 - 📫 How to reach me: cdeng73@gatech.edu
 - ❤️ Miscellaneous: photographer 📸 | director 📹 | chess player ♟(once quasi-professional at but now an aficionado)
 - 💥 News: "70 years of AI summers and winters have culminated in this moment, in which we will see the greatest shift of how people interact with technology since electricity."
