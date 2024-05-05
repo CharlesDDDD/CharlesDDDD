@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🎓 MS @Gerogia Tech | Prev. B.Eng @ECNU, Research Intern @Netease Music, SWE Intern @SAP/OPPO 
+- 🎓 Incoming CS PhD Student @Rice | Visiting Student @Yale NLP | MS @Gerogia Tech | Prev. B.Eng @ECNU, Research Intern @Netease Music, SWE Intern @SAP/OPPO 
 - 📜 Research: LLMs-centered :)
 - 📫 How to reach me: cdeng73@gatech.edu
 - ❤️ Miscellaneous: photographer 📸 | director 📹 | chess player ♟(once quasi-professional at but now an aficionado)
